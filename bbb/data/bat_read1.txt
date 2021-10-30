@@ -1,0 +1,12012 @@
+
+
+{--reading: 12--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 13--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 14--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 15--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 16--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 17--}
+{voltage : 1849}
+{temperature: 30687}
+
+{--reading: 18--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 19--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 20--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 21--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 22--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 23--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 24--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 25--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 26--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 27--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 28--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 29--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 30--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 31--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 32--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 33--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 34--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 35--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 36--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 37--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 38--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 39--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 40--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 41--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 42--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 43--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 44--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 45--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 46--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 47--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 48--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 49--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 50--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 51--}
+{voltage : 1849}
+{temperature: 30687}
+
+{--reading: 52--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 53--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 54--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 55--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 56--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 57--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 58--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 59--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 60--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 61--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 62--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 63--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 64--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 65--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 66--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 67--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 68--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 69--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 70--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 71--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 72--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 73--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 74--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 75--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 76--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 77--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 78--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 79--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 80--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 81--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 82--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 83--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 84--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 85--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 86--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 87--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 88--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 89--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 90--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 91--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 92--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 93--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 94--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 95--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 96--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 97--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 98--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 99--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 100--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 101--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 102--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 103--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 104--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 105--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 106--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 107--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 108--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 109--}
+{voltage : 1848}
+{temperature: 30687}
+
+{--reading: 110--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 111--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 112--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 113--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 114--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 115--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 116--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 117--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 118--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 119--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 120--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 121--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 122--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 123--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 124--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 125--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 126--}
+{voltage : 1846}
+{temperature: 30687}
+
+{--reading: 127--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 128--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 129--}
+{voltage : 1847}
+{temperature: 30687}
+
+{--reading: 130--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 131--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 132--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 133--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 134--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 135--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 136--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 137--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 138--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 139--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 140--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 141--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 142--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 143--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 144--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 145--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 146--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 147--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 148--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 149--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 150--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 151--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 152--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 153--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 154--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 155--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 156--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 157--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 158--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 159--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 160--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 161--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 162--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 163--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 164--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 165--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 166--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 167--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 168--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 169--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 170--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 171--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 172--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 173--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 174--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 175--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 176--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 177--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 178--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 179--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 180--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 181--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 182--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 183--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 184--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 185--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 186--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 187--}
+{voltage : 1848}
+{temperature: 30750}
+
+{--reading: 188--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 189--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 190--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 191--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 192--}
+{voltage : 1847}
+{temperature: 30750}
+
+{--reading: 193--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 194--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 195--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 196--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 197--}
+{voltage : 1848}
+{temperature: 30750}
+
+{--reading: 198--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 199--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 200--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 201--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 202--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 203--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 204--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 205--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 206--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 207--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 208--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 209--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 210--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 211--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 212--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 213--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 214--}
+{voltage : 1848}
+{temperature: 30812}
+
+{--reading: 215--}
+{voltage : 1846}
+{temperature: 30750}
+
+{--reading: 216--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 217--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 218--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 219--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 220--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 221--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 222--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 223--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 224--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 225--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 226--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 227--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 228--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 229--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 230--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 231--}
+{voltage : 1848}
+{temperature: 30812}
+
+{--reading: 232--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 233--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 234--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 235--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 236--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 237--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 238--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 239--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 240--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 241--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 242--}
+{voltage : 1848}
+{temperature: 30812}
+
+{--reading: 243--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 244--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 245--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 246--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 247--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 248--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 249--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 250--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 251--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 252--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 253--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 254--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 255--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 256--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 257--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 258--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 259--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 260--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 261--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 262--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 263--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 264--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 265--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 266--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 267--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 268--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 269--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 270--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 271--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 272--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 273--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 274--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 275--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 276--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 277--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 278--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 279--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 280--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 281--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 282--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 283--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 284--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 285--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 286--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 287--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 288--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 289--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 290--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 291--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 292--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 293--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 294--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 295--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 296--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 297--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 298--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 299--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 300--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 301--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 302--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 303--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 304--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 305--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 306--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 307--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 308--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 309--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 310--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 311--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 312--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 313--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 314--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 315--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 316--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 317--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 318--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 319--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 320--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 321--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 322--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 323--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 324--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 325--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 326--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 327--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 328--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 329--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 330--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 331--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 332--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 333--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 334--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 335--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 336--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 337--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 338--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 339--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 340--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 341--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 342--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 343--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 344--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 345--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 346--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 347--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 348--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 349--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 350--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 351--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 352--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 353--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 354--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 355--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 356--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 357--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 358--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 359--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 360--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 361--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 362--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 363--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 364--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 365--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 366--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 367--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 368--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 369--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 370--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 371--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 372--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 373--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 374--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 375--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 376--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 377--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 378--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 379--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 380--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 381--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 382--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 383--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 384--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 385--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 386--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 387--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 388--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 389--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 390--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 391--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 392--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 393--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 394--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 395--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 396--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 397--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 398--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 399--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 400--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 401--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 402--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 403--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 404--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 405--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 406--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 407--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 408--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 409--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 410--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 411--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 412--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 413--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 414--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 415--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 416--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 417--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 418--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 419--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 420--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 421--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 422--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 423--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 424--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 425--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 426--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 427--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 428--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 429--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 430--}
+{voltage : 1847}
+{temperature: 30875}
+
+{--reading: 431--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 432--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 433--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 434--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 435--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 436--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 437--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 438--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 439--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 440--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 441--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 442--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 443--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 444--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 445--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 446--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 447--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 448--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 449--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 450--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 451--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 452--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 453--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 454--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 455--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 456--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 457--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 458--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 459--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 460--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 461--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 462--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 463--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 464--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 465--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 466--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 467--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 468--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 469--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 470--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 471--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 472--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 473--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 474--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 475--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 476--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 477--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 478--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 479--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 480--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 481--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 482--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 483--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 484--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 485--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 486--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 487--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 488--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 489--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 490--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 491--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 492--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 493--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 494--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 495--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 496--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 497--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 498--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 499--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 500--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 501--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 502--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 503--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 504--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 505--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 506--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 507--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 508--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 509--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 510--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 511--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 512--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 513--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 514--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 515--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 516--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 517--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 518--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 519--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 520--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 521--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 522--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 523--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 524--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 525--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 526--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 527--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 528--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 529--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 530--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 531--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 532--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 533--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 534--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 535--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 536--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 537--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 538--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 539--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 540--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 541--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 542--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 543--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 544--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 545--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 546--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 547--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 548--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 549--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 550--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 551--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 552--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 553--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 554--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 555--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 556--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 557--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 558--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 559--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 560--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 561--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 562--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 563--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 564--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 565--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 566--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 567--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 568--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 569--}
+{voltage : 1847}
+{temperature: 30812}
+
+{--reading: 570--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 571--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 572--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 573--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 574--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 575--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 576--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 577--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 578--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 579--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 580--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 581--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 582--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 583--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 584--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 585--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 586--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 587--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 588--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 589--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 590--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 591--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 592--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 593--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 594--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 595--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 596--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 597--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 598--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 599--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 600--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 601--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 602--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 603--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 604--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 605--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 606--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 607--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 608--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 609--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 610--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 611--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 612--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 613--}
+{voltage : 1841}
+{temperature: 30875}
+
+{--reading: 614--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 615--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 616--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 617--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 618--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 619--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 620--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 621--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 622--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 623--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 624--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 625--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 626--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 627--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 628--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 629--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 630--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 631--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 632--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 633--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 634--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 635--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 636--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 637--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 638--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 639--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 640--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 641--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 642--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 643--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 644--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 645--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 646--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 647--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 648--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 649--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 650--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 651--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 652--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 653--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 654--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 655--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 656--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 657--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 658--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 659--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 660--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 661--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 662--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 663--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 664--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 665--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 666--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 667--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 668--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 669--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 670--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 671--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 672--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 673--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 674--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 675--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 676--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 677--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 678--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 679--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 680--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 681--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 682--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 683--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 684--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 685--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 686--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 687--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 688--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 689--}
+{voltage : 1846}
+{temperature: 30875}
+
+{--reading: 690--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 691--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 692--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 693--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 694--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 695--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 696--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 697--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 698--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 699--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 700--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 701--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 702--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 703--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 704--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 705--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 706--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 707--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 708--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 709--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 710--}
+{voltage : 1845}
+{temperature: 30875}
+
+{--reading: 711--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 712--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 713--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 714--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 715--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 716--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 717--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 718--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 719--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 720--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 721--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 722--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 723--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 724--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 725--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 726--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 727--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 728--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 729--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 730--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 731--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 732--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 733--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 734--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 735--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 736--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 737--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 738--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 739--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 740--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 741--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 742--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 743--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 744--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 745--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 746--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 747--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 748--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 749--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 750--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 751--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 752--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 753--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 754--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 755--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 756--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 757--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 758--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 759--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 760--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 761--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 762--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 763--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 764--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 765--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 766--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 767--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 768--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 769--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 770--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 771--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 772--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 773--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 774--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 775--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 776--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 777--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 778--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 779--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 780--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 781--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 782--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 783--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 784--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 785--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 786--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 787--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 788--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 789--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 790--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 791--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 792--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 793--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 794--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 795--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 796--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 797--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 798--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 799--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 800--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 801--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 802--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 803--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 804--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 805--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 806--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 807--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 808--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 809--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 810--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 811--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 812--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 813--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 814--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 815--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 816--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 817--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 818--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 819--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 820--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 821--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 822--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 823--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 824--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 825--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 826--}
+{voltage : 1842}
+{temperature: 30875}
+
+{--reading: 827--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 828--}
+{voltage : 1843}
+{temperature: 30875}
+
+{--reading: 829--}
+{voltage : 1844}
+{temperature: 30875}
+
+{--reading: 830--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 831--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 832--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 833--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 834--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 835--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 836--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 837--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 838--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 839--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 840--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 841--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 842--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 843--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 844--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 845--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 846--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 847--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 848--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 849--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 850--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 851--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 852--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 853--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 854--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 855--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 856--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 857--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 858--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 859--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 860--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 861--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 862--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 863--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 864--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 865--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 866--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 867--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 868--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 869--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 870--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 871--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 872--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 873--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 874--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 875--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 876--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 877--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 878--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 879--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 880--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 881--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 882--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 883--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 884--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 885--}
+{voltage : 1846}
+{temperature: 30812}
+
+{--reading: 886--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 887--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 888--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 889--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 890--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 891--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 892--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 893--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 894--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 895--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 896--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 897--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 898--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 899--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 900--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 901--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 902--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 903--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 904--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 905--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 906--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 907--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 908--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 909--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 910--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 911--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 912--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 913--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 914--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 915--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 916--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 917--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 918--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 919--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 920--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 921--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 922--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 923--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 924--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 925--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 926--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 927--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 928--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 929--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 930--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 931--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 932--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 933--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 934--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 935--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 936--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 937--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 938--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 939--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 940--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 941--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 942--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 943--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 944--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 945--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 946--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 947--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 948--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 949--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 950--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 951--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 952--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 953--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 954--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 955--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 956--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 957--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 958--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 959--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 960--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 961--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 962--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 963--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 964--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 965--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 966--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 967--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 968--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 969--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 970--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 971--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 972--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 973--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 974--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 975--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 976--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 977--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 978--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 979--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 980--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 981--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 982--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 983--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 984--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 985--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 986--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 987--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 988--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 989--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 990--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 991--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 992--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 993--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 994--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 995--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 996--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 997--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 998--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 999--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1000--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1001--}
+{voltage : 1845}
+{temperature: 30812}
+
+{--reading: 1002--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1003--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1004--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1005--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1006--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1007--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1008--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1009--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1010--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1011--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1012--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1013--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1014--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1015--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1016--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1017--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1018--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1019--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1020--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1021--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1022--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1023--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1024--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1025--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1026--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1027--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1028--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1029--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1030--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1031--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1032--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1033--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1034--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1035--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1036--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1037--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1038--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1039--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1040--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 1041--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 1042--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1043--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1044--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1045--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1046--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1047--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1048--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1049--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1050--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1051--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1052--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1053--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1054--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1055--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1056--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1057--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1058--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1059--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1060--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1061--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1062--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1063--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1064--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1065--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1066--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1067--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1068--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1069--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1070--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1071--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1072--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1073--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1074--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1075--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1076--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1077--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1078--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 1079--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1080--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1081--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1082--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1083--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1084--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1085--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1086--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1087--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1088--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1089--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1090--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1091--}
+{voltage : 1845}
+{temperature: 30750}
+
+{--reading: 1092--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1093--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1094--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1095--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1096--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1097--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1098--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1099--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1100--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1101--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1102--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1103--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1104--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1105--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1106--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1107--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1108--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1109--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1110--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1111--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1112--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1113--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1114--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1115--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1116--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1117--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1118--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1119--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1120--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1121--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1122--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1123--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1124--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1125--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1126--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1127--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1128--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1129--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1130--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1131--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1132--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1133--}
+{voltage : 1845}
+{temperature: 30687}
+
+{--reading: 1134--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1135--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1136--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1137--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1138--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1139--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1140--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1141--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1142--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1143--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1144--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1145--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1146--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1147--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1148--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1149--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1150--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1151--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1152--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1153--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1154--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1155--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1156--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1157--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1158--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1159--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1160--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1161--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1162--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1163--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1164--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1165--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1166--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1167--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1168--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1169--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1170--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1171--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1172--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1173--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1174--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1175--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1176--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1177--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1178--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1179--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1180--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1181--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1182--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1183--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1184--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1185--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1186--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1187--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1188--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1189--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1190--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1191--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1192--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1193--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1194--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1195--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1196--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1197--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1198--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1199--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1200--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1201--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1202--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1203--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1204--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1205--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1206--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1207--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1208--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1209--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1210--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1211--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1212--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1213--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1214--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1215--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1216--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1217--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1218--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1219--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1220--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1221--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1222--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1223--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1224--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1225--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1226--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1227--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1228--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1229--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1230--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1231--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1232--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1233--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1234--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1235--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1236--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1237--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1238--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1239--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1240--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1241--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1242--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1243--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1244--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1245--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1246--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1247--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1248--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1249--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1250--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1251--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1252--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1253--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1254--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1255--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1256--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1257--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1258--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1259--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1260--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1261--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1262--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1263--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1264--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1265--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1266--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1267--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1268--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1269--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1270--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1271--}
+{voltage : 1844}
+{temperature: 30687}
+
+{--reading: 1272--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1273--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1274--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1275--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1276--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1277--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1278--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1279--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1280--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1281--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1282--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1283--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1284--}
+{voltage : 1844}
+{temperature: 30750}
+
+{--reading: 1285--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1286--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1287--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1288--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1289--}
+{voltage : 1843}
+{temperature: 30687}
+
+{--reading: 1290--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1291--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1292--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1293--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1294--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1295--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1296--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1297--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1298--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1299--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1300--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1301--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1302--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1303--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1304--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1305--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1306--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1307--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1308--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1309--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1310--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1311--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1312--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1313--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1314--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1315--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1316--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1317--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1318--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1319--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1320--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1321--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1322--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1323--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1324--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1325--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1326--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1327--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1328--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1329--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1330--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1331--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1332--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1333--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1334--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1335--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1336--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1337--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1338--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1339--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1340--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1341--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1342--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1343--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1344--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1345--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1346--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1347--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1348--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1349--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1350--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1351--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1352--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1353--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1354--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1355--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1356--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1357--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1358--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1359--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1360--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1361--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1362--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1363--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1364--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1365--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1366--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1367--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1368--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1369--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1370--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1371--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1372--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1373--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1374--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1375--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1376--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1377--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1378--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1379--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1380--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1381--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1382--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1383--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1384--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 1385--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1386--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1387--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1388--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1389--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1390--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1391--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1392--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1393--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1394--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1395--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1396--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1397--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1398--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1399--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1400--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1401--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1402--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1403--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1404--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1405--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1406--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1407--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1408--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1409--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1410--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1411--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1412--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1413--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1414--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1415--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1416--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1417--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1418--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1419--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1420--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1421--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1422--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1423--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1424--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1425--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1426--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1427--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1428--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1429--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1430--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1431--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1432--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1433--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1434--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1435--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1436--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1437--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1438--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1439--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1440--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1441--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1442--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1443--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1444--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1445--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1446--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1447--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1448--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1449--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1450--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1451--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1452--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1453--}
+{voltage : 1844}
+{temperature: 30812}
+
+{--reading: 1454--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1455--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1456--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1457--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1458--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1459--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1460--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1461--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1462--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1463--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1464--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1465--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1466--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1467--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1468--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1469--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1470--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1471--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1472--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1473--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1474--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1475--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1476--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1477--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1478--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1479--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1480--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1481--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1482--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1483--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1484--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1485--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1486--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1487--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1488--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1489--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1490--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1491--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1492--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1493--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1494--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1495--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1496--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1497--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1498--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1499--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1500--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1501--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1502--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1503--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1504--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1505--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1506--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1507--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1508--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1509--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1510--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1511--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1512--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1513--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1514--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1515--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1516--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1517--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1518--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1519--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1520--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1521--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1522--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1523--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1524--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1525--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1526--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1527--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1528--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1529--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1530--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1531--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1532--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1533--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1534--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1535--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1536--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1537--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1538--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1539--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1540--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1541--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1542--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1543--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1544--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1545--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1546--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1547--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1548--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1549--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1550--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1551--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1552--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1553--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1554--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 1555--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 1556--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1557--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1558--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1559--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1560--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1561--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1562--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1563--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1564--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1565--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1566--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1567--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1568--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 1569--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1570--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1571--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1572--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1573--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1574--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1575--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1576--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1577--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1578--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1579--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1580--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1581--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1582--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1583--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1584--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1585--}
+{voltage : 1843}
+{temperature: 30812}
+
+{--reading: 1586--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1587--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1588--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1589--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1590--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1591--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1592--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1593--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1594--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1595--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1596--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 1597--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1598--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1599--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1600--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1601--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1602--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1603--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1604--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1605--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1606--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1607--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1608--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1609--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1610--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1611--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1612--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1613--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1614--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1615--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1616--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1617--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1618--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1619--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1620--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1621--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1622--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1623--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1624--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1625--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1626--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1627--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1628--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1629--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1630--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1631--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1632--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1633--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1634--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1635--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1636--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1637--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1638--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1639--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1640--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1641--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1642--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1643--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1644--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1645--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1646--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1647--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1648--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 1649--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1650--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1651--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1652--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1653--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1654--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1655--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 1656--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1657--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1658--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1659--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1660--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1661--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1662--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1663--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1664--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1665--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1666--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1667--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1668--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1669--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1670--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1671--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1672--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1673--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1674--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1675--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1676--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1677--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1678--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1679--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1680--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1681--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1682--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1683--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1684--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1685--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1686--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1687--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1688--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1689--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1690--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1691--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1692--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1693--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1694--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1695--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1696--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1697--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1698--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1699--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1700--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1701--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1702--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1703--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1704--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1705--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1706--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1707--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1708--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1709--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1710--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1711--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1712--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1713--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1714--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1715--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1716--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1717--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1718--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1719--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1720--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1721--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1722--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1723--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1724--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1725--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1726--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1727--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1728--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1729--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1730--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1731--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1732--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1733--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1734--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1735--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1736--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1737--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1738--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1739--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1740--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1741--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1742--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1743--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1744--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1745--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1746--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1747--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1748--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1749--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1750--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1751--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1752--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1753--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1754--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1755--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1756--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1757--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1758--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1759--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1760--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1761--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1762--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1763--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1764--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1765--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1766--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1767--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1768--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1769--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1770--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1771--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1772--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1773--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1774--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1775--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1776--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1777--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1778--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1779--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1780--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1781--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1782--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1783--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1784--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1785--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1786--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1787--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1788--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1789--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1790--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1791--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1792--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1793--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1794--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1795--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1796--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1797--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 1798--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1799--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1800--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1801--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1802--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1803--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1804--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1805--}
+{voltage : 1843}
+{temperature: 30750}
+
+{--reading: 1806--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1807--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1808--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1809--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1810--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1811--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1812--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1813--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1814--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1815--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1816--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1817--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1818--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1819--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1820--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1821--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1822--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1823--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1824--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1825--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1826--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1827--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1828--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1829--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1830--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1831--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1832--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1833--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1834--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1835--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1836--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1837--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1838--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1839--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1840--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1841--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1842--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1843--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1844--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1845--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1846--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1847--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1848--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1849--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1850--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 1851--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1852--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1853--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1854--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1855--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1856--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1857--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1858--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1859--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1860--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1861--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1862--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1863--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1864--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1865--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1866--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1867--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1868--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1869--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1870--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1871--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1872--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1873--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1874--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1875--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1876--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1877--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1878--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1879--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1880--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1881--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1882--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1883--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1884--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1885--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1886--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1887--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1888--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1889--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1890--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1891--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1892--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1893--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1894--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1895--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1896--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1897--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1898--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1899--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1900--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1901--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1902--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1903--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1904--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1905--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1906--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1907--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1908--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1909--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1910--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1911--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1912--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1913--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 1914--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1915--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1916--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1917--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1918--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1919--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1920--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1921--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1922--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1923--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 1924--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1925--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1926--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1927--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1928--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1929--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1930--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1931--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1932--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1933--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1934--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1935--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1936--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1937--}
+{voltage : 1842}
+{temperature: 30687}
+
+{--reading: 1938--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1939--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1940--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1941--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1942--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1943--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1944--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1945--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1946--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1947--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1948--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1949--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1950--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1951--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1952--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1953--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1954--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1955--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1956--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1957--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1958--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1959--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1960--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 1961--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1962--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1963--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1964--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1965--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1966--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1967--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1968--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1969--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1970--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 1971--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1972--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1973--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1974--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1975--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1976--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1977--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1978--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1979--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1980--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1981--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1982--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1983--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1984--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1985--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1986--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 1987--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1988--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1989--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1990--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 1991--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1992--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 1993--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1994--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1995--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 1996--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1997--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 1998--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 1999--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2000--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2001--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2002--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2003--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2004--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2005--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2006--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2007--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2008--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2009--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2010--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2011--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 2012--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2013--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 2014--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2015--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2016--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2017--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2018--}
+{voltage : 1842}
+{temperature: 30750}
+
+{--reading: 2019--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2020--}
+{voltage : 1841}
+{temperature: 30687}
+
+{--reading: 2021--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2022--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2023--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2024--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2025--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2026--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2027--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2028--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2029--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2030--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2031--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2032--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2033--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2034--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2035--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2036--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2037--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2038--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2039--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2040--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2041--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2042--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2043--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2044--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2045--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2046--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2047--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2048--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2049--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2050--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2051--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2052--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2053--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2054--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2055--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2056--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2057--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2058--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2059--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2060--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2061--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2062--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2063--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2064--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2065--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2066--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2067--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2068--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2069--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2070--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2071--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2072--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2073--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2074--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2075--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2076--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2077--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2078--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2079--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2080--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2081--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2082--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2083--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2084--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2085--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2086--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2087--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2088--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2089--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2090--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2091--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2092--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2093--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2094--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2095--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2096--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2097--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2098--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2099--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2100--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2101--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2102--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2103--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2104--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2105--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2106--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2107--}
+{voltage : 1841}
+{temperature: 30750}
+
+{--reading: 2108--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2109--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2110--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2111--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2112--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2113--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2114--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2115--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2116--}
+{voltage : 1842}
+{temperature: 30812}
+
+{--reading: 2117--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2118--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2119--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2120--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2121--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2122--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2123--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2124--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2125--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2126--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2127--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2128--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2129--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2130--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2131--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2132--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2133--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2134--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2135--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2136--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2137--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2138--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2139--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2140--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2141--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2142--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2143--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2144--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2145--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2146--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2147--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2148--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2149--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2150--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2151--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2152--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2153--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2154--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2155--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2156--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2157--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2158--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2159--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2160--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2161--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2162--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2163--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2164--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2165--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2166--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2167--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2168--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2169--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2170--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2171--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2172--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2173--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2174--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2175--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2176--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2177--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2178--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2179--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2180--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2181--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2182--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2183--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2184--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2185--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2186--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2187--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2188--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2189--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2190--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2191--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2192--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2193--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2194--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2195--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2196--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2197--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2198--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2199--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2200--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2201--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2202--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2203--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2204--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2205--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2206--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2207--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2208--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2209--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2210--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2211--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2212--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2213--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2214--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2215--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2216--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2217--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2218--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2219--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2220--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2221--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2222--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2223--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2224--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2225--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2226--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2227--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2228--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2229--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2230--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2231--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2232--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2233--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2234--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2235--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2236--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2237--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2238--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2239--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2240--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2241--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2242--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2243--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2244--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2245--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2246--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2247--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2248--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2249--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2250--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2251--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2252--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2253--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2254--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2255--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2256--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2257--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2258--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2259--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2260--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2261--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2262--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2263--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2264--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2265--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2266--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2267--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2268--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2269--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2270--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2271--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2272--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2273--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2274--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2275--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2276--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2277--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2278--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2279--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2280--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2281--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2282--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2283--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2284--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2285--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2286--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2287--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2288--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2289--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2290--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2291--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2292--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2293--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2294--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2295--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2296--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2297--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2298--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2299--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2300--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2301--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2302--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2303--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2304--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2305--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2306--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2307--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2308--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2309--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2310--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2311--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2312--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2313--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2314--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2315--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2316--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2317--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2318--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2319--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2320--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2321--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2322--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2323--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2324--}
+{voltage : 1836}
+{temperature: 30812}
+
+{--reading: 2325--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2326--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2327--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2328--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2329--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2330--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2331--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2332--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2333--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2334--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2335--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2336--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2337--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2338--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2339--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2340--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2341--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2342--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2343--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2344--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2345--}
+{voltage : 1841}
+{temperature: 30812}
+
+{--reading: 2346--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2347--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2348--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2349--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2350--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2351--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2352--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2353--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2354--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2355--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2356--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2357--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2358--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2359--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2360--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2361--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2362--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2363--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2364--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2365--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2366--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2367--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2368--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2369--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2370--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2371--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2372--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2373--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2374--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2375--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2376--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2377--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2378--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2379--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2380--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2381--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2382--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2383--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2384--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2385--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2386--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2387--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2388--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2389--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2390--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2391--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2392--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2393--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2394--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2395--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2396--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2397--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2398--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2399--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 2400--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2401--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2402--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2403--}
+{voltage : 1836}
+{temperature: 30812}
+
+{--reading: 2404--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2405--}
+{voltage : 1840}
+{temperature: 30812}
+
+{--reading: 2406--}
+{voltage : 1839}
+{temperature: 30812}
+
+{--reading: 2407--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2408--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 2409--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2410--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2411--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2412--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2413--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2414--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2415--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2416--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2417--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2418--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2419--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2420--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2421--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2422--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2423--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2424--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2425--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2426--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2427--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2428--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2429--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2430--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2431--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2432--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2433--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2434--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2435--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2436--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2437--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2438--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2439--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2440--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2441--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2442--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2443--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2444--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2445--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2446--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2447--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2448--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2449--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2450--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2451--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2452--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2453--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2454--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2455--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2456--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2457--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2458--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2459--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2460--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2461--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2462--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2463--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2464--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2465--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2466--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2467--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2468--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2469--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2470--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2471--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2472--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2473--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2474--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2475--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2476--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2477--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2478--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2479--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2480--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2481--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2482--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2483--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2484--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2485--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2486--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2487--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2488--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2489--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2490--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2491--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2492--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2493--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2494--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2495--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2496--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2497--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2498--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2499--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2500--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2501--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2502--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2503--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2504--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2505--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2506--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2507--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2508--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2509--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2510--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2511--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2512--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2513--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2514--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2515--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2516--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2517--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2518--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2519--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2520--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2521--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2522--}
+{voltage : 1840}
+{temperature: 30750}
+
+{--reading: 2523--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2524--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2525--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2526--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2527--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2528--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2529--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2530--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2531--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2532--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2533--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2534--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2535--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2536--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2537--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2538--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2539--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2540--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2541--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2542--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2543--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2544--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2545--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2546--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2547--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2548--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2549--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2550--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2551--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2552--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2553--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2554--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2555--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2556--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2557--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2558--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2559--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2560--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2561--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2562--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2563--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2564--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2565--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2566--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2567--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2568--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2569--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2570--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2571--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2572--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2573--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2574--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2575--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2576--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2577--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2578--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2579--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2580--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2581--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2582--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2583--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2584--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2585--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2586--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2587--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2588--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2589--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2590--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2591--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2592--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2593--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2594--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2595--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2596--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2597--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2598--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2599--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2600--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2601--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2602--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2603--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2604--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2605--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2606--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2607--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2608--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2609--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2610--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2611--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2612--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2613--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2614--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2615--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2616--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2617--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2618--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2619--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2620--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2621--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2622--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2623--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2624--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2625--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2626--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2627--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2628--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2629--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2630--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2631--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2632--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2633--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2634--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2635--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2636--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2637--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2638--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2639--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2640--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2641--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2642--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2643--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2644--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2645--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2646--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2647--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2648--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2649--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2650--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2651--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2652--}
+{voltage : 1840}
+{temperature: 30687}
+
+{--reading: 2653--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2654--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2655--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2656--}
+{voltage : 1839}
+{temperature: 30625}
+
+{--reading: 2657--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2658--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2659--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2660--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2661--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2662--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2663--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2664--}
+{voltage : 1836}
+{temperature: 30625}
+
+{--reading: 2665--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2666--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2667--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2668--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2669--}
+{voltage : 1839}
+{temperature: 30625}
+
+{--reading: 2670--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2671--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2672--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2673--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2674--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2675--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2676--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2677--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2678--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2679--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2680--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2681--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2682--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2683--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2684--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2685--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2686--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2687--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2688--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2689--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2690--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2691--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2692--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2693--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2694--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2695--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2696--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2697--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2698--}
+{voltage : 1835}
+{temperature: 30687}
+
+{--reading: 2699--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2700--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2701--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2702--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2703--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2704--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2705--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2706--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2707--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2708--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2709--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2710--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2711--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2712--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2713--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2714--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2715--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2716--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2717--}
+{voltage : 1836}
+{temperature: 30625}
+
+{--reading: 2718--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2719--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2720--}
+{voltage : 1836}
+{temperature: 30625}
+
+{--reading: 2721--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2722--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2723--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2724--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2725--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2726--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2727--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2728--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2729--}
+{voltage : 1838}
+{temperature: 30625}
+
+{--reading: 2730--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2731--}
+{voltage : 1837}
+{temperature: 30625}
+
+{--reading: 2732--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2733--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2734--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2735--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2736--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2737--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2738--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2739--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2740--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2741--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2742--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2743--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2744--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2745--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2746--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2747--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2748--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2749--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2750--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2751--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2752--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2753--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2754--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2755--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2756--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2757--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2758--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2759--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2760--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2761--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2762--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2763--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2764--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2765--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2766--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2767--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2768--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2769--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2770--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2771--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2772--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2773--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2774--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2775--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2776--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2777--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2778--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2779--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2780--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2781--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2782--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2783--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2784--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2785--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2786--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2787--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2788--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2789--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2790--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2791--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2792--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2793--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2794--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2795--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2796--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2797--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2798--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2799--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2800--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2801--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2802--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2803--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2804--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2805--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2806--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2807--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2808--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2809--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2810--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2811--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2812--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2813--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2814--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2815--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2816--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2817--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2818--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2819--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2820--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2821--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2822--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2823--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2824--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2825--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2826--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2827--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2828--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2829--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2830--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2831--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2832--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2833--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2834--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2835--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2836--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2837--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2838--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2839--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2840--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2841--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2842--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2843--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2844--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2845--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2846--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2847--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2848--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2849--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2850--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2851--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2852--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2853--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2854--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2855--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2856--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2857--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2858--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2859--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2860--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2861--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2862--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2863--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2864--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2865--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2866--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2867--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2868--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2869--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2870--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2871--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2872--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2873--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2874--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2875--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2876--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2877--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2878--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2879--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2880--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2881--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2882--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2883--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2884--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2885--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2886--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2887--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2888--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2889--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2890--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2891--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2892--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 2893--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2894--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2895--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2896--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2897--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2898--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2899--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2900--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2901--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2902--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2903--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2904--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2905--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2906--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2907--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2908--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2909--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2910--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2911--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2912--}
+{voltage : 1835}
+{temperature: 30687}
+
+{--reading: 2913--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2914--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2915--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2916--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2917--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2918--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2919--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2920--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2921--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2922--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2923--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2924--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2925--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2926--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2927--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2928--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2929--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2930--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2931--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2932--}
+{voltage : 1835}
+{temperature: 30687}
+
+{--reading: 2933--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2934--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2935--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2936--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2937--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2938--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2939--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2940--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2941--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2942--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2943--}
+{voltage : 1839}
+{temperature: 30687}
+
+{--reading: 2944--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2945--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2946--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2947--}
+{voltage : 1835}
+{temperature: 30687}
+
+{--reading: 2948--}
+{voltage : 1835}
+{temperature: 30687}
+
+{--reading: 2949--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2950--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2951--}
+{voltage : 1835}
+{temperature: 30687}
+
+{--reading: 2952--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2953--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2954--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2955--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2956--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2957--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2958--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2959--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2960--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2961--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2962--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2963--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2964--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2965--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2966--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2967--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2968--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2969--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 2970--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2971--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2972--}
+{voltage : 1838}
+{temperature: 30687}
+
+{--reading: 2973--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2974--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2975--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2976--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 2977--}
+{voltage : 1839}
+{temperature: 30750}
+
+{--reading: 2978--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2979--}
+{voltage : 1837}
+{temperature: 30687}
+
+{--reading: 2980--}
+{voltage : 1836}
+{temperature: 30687}
+
+{--reading: 2981--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 2982--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2983--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2984--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2985--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2986--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2987--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2988--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2989--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2990--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2991--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2992--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2993--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2994--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 2995--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2996--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 2997--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 2998--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 2999--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 3000--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 3001--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 3002--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 3003--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 3004--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 3005--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 3006--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 3007--}
+{voltage : 1838}
+{temperature: 30750}
+
+{--reading: 3008--}
+{voltage : 1836}
+{temperature: 30750}
+
+{--reading: 3009--}
+{voltage : 1837}
+{temperature: 30812}
+
+{--reading: 3010--}
+{voltage : 1835}
+{temperature: 30750}
+
+{--reading: 3011--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 3012--}
+{voltage : 1838}
+{temperature: 30812}
+
+{--reading: 3013--}
+{voltage : 1837}
+{temperature: 30750}
+
+{--reading: 3014--}
+{voltage : 1835}

@@ -9,3 +9,4 @@ Currently tested and working:
 2. Temperature Sensor DS19B20.
 
 ## References
+1. [cell specs on robu](https://robu.in/product/lg-inr18650-b4-2600mah-lithium-ion-battery/)

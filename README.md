@@ -10,3 +10,4 @@ Currently tested and working:
 
 ## References
 1. [cell specs on robu](https://robu.in/product/lg-inr18650-b4-2600mah-lithium-ion-battery/)
+2. [Cell Manual](https://robu.in/wp-content/uploads/2019/04/LG-ICR-18650-22F-Lithium-Ion-Battery-ROBU.IN_.pdf)

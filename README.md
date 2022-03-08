@@ -15,6 +15,8 @@ Currently tested and working:
 - Preset 4.2V Charge Voltage with 1.5% Accuracy.
 - 2.9V Trickle Charge Threshold
 
+![](media/image.png)
+
 ## References
 1. [cell specs on robu](https://robu.in/product/lg-inr18650-b4-2600mah-lithium-ion-battery/)
 2. [Cell Manual](https://robu.in/wp-content/uploads/2019/04/LG-ICR-18650-22F-Lithium-Ion-Battery-ROBU.IN_.pdf)
